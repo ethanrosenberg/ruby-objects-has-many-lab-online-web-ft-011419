@@ -17,4 +17,8 @@ class Artist
    @songs << newsong
   end
   
+  def song_count
+    
+  end
+  
 end
