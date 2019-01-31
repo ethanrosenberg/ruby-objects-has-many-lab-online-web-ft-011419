@@ -17,7 +17,7 @@ class Artist
    @songs << newsong
   end
   
-  def song_count
+  def self.song_count
     self.@songs.size
   end
   
