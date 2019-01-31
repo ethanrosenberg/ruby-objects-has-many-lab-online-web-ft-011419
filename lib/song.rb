@@ -10,6 +10,7 @@ class Song
   
   def name=(name)
     @name = name
+    @artist_name = name.
   end
   
   def name
